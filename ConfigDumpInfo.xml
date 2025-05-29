@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Настройки" id="c2c22f02-72c0-496b-a7c3-29cb2e0e7424" configVersion="28fc6391264984448bc0cc92e7a851fd00000000">
+			<Metadata name="Catalog.Настройки.Attribute.КлючНастройки" id="1ba43f81-41c4-45ad-82aa-3223293b92ec"/>
+			<Metadata name="Catalog.Настройки.Attribute.Значение" id="d5416c9e-82a6-45f6-a9c3-24ed86b71419"/>
+			<Metadata name="Catalog.Настройки.Attribute.ТипЗначения" id="e9f69cfa-e5d0-48d2-878c-da03f6a8a57c"/>
+		</Metadata>
+		<Metadata name="Catalog.Настройки.Form.ФормаЭлемента" id="4eb5b467-e098-4e04-a3a2-b93e19d9ffc4" configVersion="92e6828d1dc20d4786fdc3e0c281850700000000"/>
+		<Metadata name="Catalog.Настройки.Form.ФормаЭлемента.Form" id="4eb5b467-e098-4e04-a3a2-b93e19d9ffc4.0" configVersion="8edc5bbb251732468fb5a43fef5146d700000000"/>
+		<Metadata name="Catalog.Настройки.Form.ФормаЭлемента.Help" id="4eb5b467-e098-4e04-a3a2-b93e19d9ffc4.1" configVersion="9272b8418a26e548aeede0423ba1c29a00000000"/>
+		<Metadata name="Catalog.Настройки.Help" id="c2c22f02-72c0-496b-a7c3-29cb2e0e7424.1" configVersion="ac7df71fe99c7a43bfb92c985c7f678b00000000"/>
+		<Metadata name="Catalog.Настройки.ManagerModule" id="c2c22f02-72c0-496b-a7c3-29cb2e0e7424.3" configVersion="a41e14cf265d22488b8cb8de9073cff500000000"/>
+		<Metadata name="Catalog.Настройки.ObjectModule" id="c2c22f02-72c0-496b-a7c3-29cb2e0e7424.0" configVersion="1aa0a128e5a48c4dad7b604f1c27aec600000000"/>
+		<Metadata name="Catalog.Настройки.Predefined" id="c2c22f02-72c0-496b-a7c3-29cb2e0e7424.1c" configVersion="7b899c38b3be4240ac6f3d903000dc3700000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="a8755718-a3a0-40ab-99ca-13c72681a0d7" configVersion="3ba3954b7b139241a3cae0a9ae55b2b300000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="a8755718-a3a0-40ab-99ca-13c72681a0d7.0" configVersion="4902019e4bd6af4d90e8e5153018f49400000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПовтИсп" id="f402971a-362d-41ff-98cb-52178204c32b" configVersion="901f0131cabe5a47a8f365afa1d2f19500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПовтИсп.Module" id="f402971a-362d-41ff-98cb-52178204c32b.0" configVersion="db9155622a68b74e9d7a6295ed8ec85b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d30dff9a-1bc1-4099-b3bc-63155c644b1e" configVersion="49a15815abd9374d968eb113c740ebc700000000"/>
+		<Metadata name="Language.Русский" id="b441c5ab-c216-41bf-aebf-34ea773cddba" configVersion="59e3d7a0e20d674195b892d32cbb0abb00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
